@@ -11,6 +11,6 @@ There are 2 experiments: \
 Experiment 1 (Spider as player): user can click on nodes (deduction of 1 point) but the reward generated is random.\
 Experiment 2 (Plane as player): user can click on edges to view the rewards and then plan a path.
 
-Link to experiment: [MCL Assignment](http://167.172.106.143/publix/4/start?batchId=4&generalMultiple)
+Link to experiment: [MCL Assignment](http://167.172.106.143/publix/4/start?batchId=4&generalSingle)
 
 
