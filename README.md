@@ -1,5 +1,5 @@
 # Understanding human metacognitive learning
-Mouselab-MDP is a [JsPsych](https://github.com/jodeleeuw/jsPsych/) plugin that renders Markov decision processes (MDP) for participants to navigate through. Optionally, information about the environment can be presented only when the participant asks for it by clicks.
+Mouselab-MDP is a [JsPsych](https://github.com/jodeleeuw/jsPsych/) plugin that renders Markov decision processes (MDP) for participants to navigate through. Optionally, information about the environment can be presented when the participant asks for it by clicking on edges/nodes.
 
 This adaptation can be used to test whether misalignment of rewards increases planning time ie: when the generated rewards are random, the user should take more time to plan a path through the grid with maximal reward.
 
